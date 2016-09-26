@@ -1,4 +1,6 @@
-
+/* 
+ * This was encoded in UTF-8
+ * */
 public class BeerSong {
 
 	public static void main(String[] args) {
