@@ -10,4 +10,5 @@ and their examples :
 * [http://examples.oreilly.com/9780596009205/](http://examples.oreilly.com/9780596009205/)
 
 The aim of this repository is to gain thanks to this book different programming and developing skills.
+
 Codes in this repository are improved or resolved in my own way. Therefore, all codes in this repository are under a permissive  _MIT licence_ published in [licence.txt](https://github.com/MicroBates/testRepo/licence.txt), if not under Copyright 2003, 2005 by O'Reilly Media, Inc. All rights reserved.
