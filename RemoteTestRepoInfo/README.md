@@ -18,5 +18,5 @@ As codes published in this repository is improved or resolved in my own way :
 
 The (licence.txt)[] applicable to this repository is a *MIT Licence*.
 
-If not applicable, it might be Copyright 2003, 2005 by O'Reilly Media, Inc. All rights reserved.
+If not applicable, it might be Copyright 2003, 2005 by O'Reilly Media, Inc. All rights reserved. that I don't own.
 
