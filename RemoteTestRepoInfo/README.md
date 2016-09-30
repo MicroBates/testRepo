@@ -16,7 +16,7 @@ Code example can be retrievied @ : [http://examples.oreilly.com/9780596009205/](
 
 As codes published in this repository is improved or resolved in my own way :
 
-The [licence.txt](https://github.com/MicroBates/testRepo/blob/master/RemoteTestRepoInfo/licence.txt) applicable to this repository is a *MIT Licence*.
+The  applicable to this repository is a *MIT Licence*.
 
 If not applicable, it might be Copyright 2003, 2005 by O'Reilly Media, Inc. All rights reserved. that I don't own.
 
